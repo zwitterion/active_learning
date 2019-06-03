@@ -1,0 +1,5 @@
+setosa = petal_width in (0,1.0]
+
+versicolor = petal_width in [1.0, 1.8]
+
+virginica = petal_width in [1.8, 999]  if 1.8 => peta_length >5
